@@ -11,6 +11,7 @@ dist/
 .env
 .env.local
 .env.*.local
+temp_auto_push.bat
 
 # OS
 .DS_Store
@@ -25,3 +26,5 @@ Thumbs.db
 # Generated API documentation (produced by cargo doc / typedoc)
 target/doc/
 docs/api/
+.gitignore
+branch_structure.json
